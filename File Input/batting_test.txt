@@ -1,0 +1,10 @@
+1,Marnus Labuschane,912
+2,Steve Smith,875
+3,Joe Root,871
+4,Babar Azam,854
+5,Travis Head,898
+6,Kane Williamson,797
+7,Tom Blundell,782
+8,Rishabh Pant,781          
+9,Rohit Sharma,777
+10,Dimuth Karunaratne,748

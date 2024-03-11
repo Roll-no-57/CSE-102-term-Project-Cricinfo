@@ -1,0 +1,10 @@
+1,Mohammed Siraj,729
+2,Josh Hazlewood,727
+3,Trent Boult,708 
+4,Mitchell Starc,665
+5,Rashid Khan,659
+6,Adam Zampa,655
+7,Shakib Al Hasan,652
+8,Shaheen Afridi,641
+9,Mustafizur Rahman,638
+10,Mujeeb Ur Rahman,637

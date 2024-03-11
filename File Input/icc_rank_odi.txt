@@ -1,0 +1,9 @@
+2,Australia,3572	
+3,New Zealand,3229	
+4,England,3656	
+5,Pakistan,2649	
+6,South Africa,2775	
+7,Bangladesh,3129	
+8,Sri Lanka,2976	
+9,Afghanistan,1419	
+10,West Indies,2902	

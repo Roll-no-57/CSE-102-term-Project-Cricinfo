@@ -1,0 +1,10 @@
+1,Ravichandran Ashwin,864
+2,James Anderson,859
+3,Pat Cummins,858
+4,Jasprit Bumrah,795
+5,Shaheen Afridi,787
+6,Ollie Robinson,785
+7,Kagiso Rabada,776
+8,Ravindra Jadeja,763
+9,Kyle Jamieson,757
+10,Mitchell Starc,735

@@ -1,0 +1,10 @@
+1,Wanindu Hasaranga,695
+2,Rashid Khan,694
+3,Adil Rashid,692
+4,Josh Hazlewood,690
+5,Sam Curran,688
+6,Tabraiz Shamsi,681
+7,Adam Zampa,678
+8,Anrich Nortje,659
+9,Mitchell Santner,657
+10,Mujeeb Ur Rahman,654

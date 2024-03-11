@@ -1,0 +1,10 @@
+1,India,18445	
+2,England,15029	
+3,Pakistan,14168	
+4,South Africa,10510	
+5,New Zealand,13371	
+6,Australia,11784	
+7,West Indies,12039	
+8,Sri Lanka,11485	
+9,Bangladesh,11328
+10,Afghanistan,6512	

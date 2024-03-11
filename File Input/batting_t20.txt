@@ -1,0 +1,10 @@
+1,suryakumar yadav,906
+2,Mohammad Rizwan,836
+3,Babar Azam,778
+4,Devon Conway,768
+5,Aiden Markram,748
+6,Dawid Malan,718
+7,Muhammad Waseem,716
+8,Rilee Rossouw,693
+9,Aaron Finch,680
+10,Glenn Phillips,663‎
